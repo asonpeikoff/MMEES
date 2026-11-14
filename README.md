@@ -7,10 +7,10 @@
 
 A FOSS lead scraping tool developed by:
 
-	Jason Miller
+	Ason Peikoff
 	Libre Agora, LLC. 
 
-https://github.com/hack-r
+https://github.com/asonpeikoff
 
 NOTE: Serp API has a **free** plan - 100 searches/month, I believe. I don't work for them, but these engines change so much that if you build a traditional scraper today, it will likely be broken a next week or next month. This is a convenient solution and bypasses IP throttling as well.
 
